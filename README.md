@@ -38,7 +38,7 @@ pip install tensorflow
 cd GetMIP_POINT/
 ```
 
-Edit GAF_Face_filter.py line.27-29, to fill in the original image path, the directory to save your preprocess images, the path to save the index of preprocess images.
+Edit GAF_Face_filter.py line 27-29, to fill in the original image path, the directory to save your preprocess images, and the path to save the index of preprocess images.
 
 To get preprocess images, run:
 ```shell script
