@@ -1,4 +1,5 @@
 # Most Important Person-guided Dual-branch Cross-Patch Attention for Group Affect Recognition (ICCV 2023)
+
 This repository is the PyTorch implementation of "[Most Important Person-guided Dual-branch Cross-Patch Attention for Group Affect Recognition](https://openaccess.thecvf.com/content/ICCV2023/html/Xie_Most_Important_Person-Guided_Dual-Branch_Cross-Patch_Attention_for_Group_Affect_Recognition_ICCV_2023_paper.html)." Please feel free to reach out for any questions or discussions.
 
 If you use the codes and models from this repo, please cite our work. Thanks!
